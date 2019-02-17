@@ -24,6 +24,6 @@ func main() {
 
 	router := muxinator.NewRouter()
 	router.Get("/read/{serviceName}", c.ReadConfig)
-
+	log.Println("config manager started ...")
 	log.Fatal(router.ListenAndServe(":8080"))
 }
