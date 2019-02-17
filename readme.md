@@ -4,7 +4,7 @@
 # Carpino Config Manager
 
 
-[![Go Report Card](https://goreportcard.com/badge/github.com/CarpinoTaxi/config-manager)](https://goreportcard.com/badge/github.com/CarpinoTaxi/config-manager)
+
 
 This is a lightweight, open source config manager and discovery management platform tha enables you to control your microservice environments from a single file. It will watch over changes and reloads the config every n seconds.
 
