@@ -1,9 +1,5 @@
 
-# config-manager
-
-
-
-![Carpino config manager](https://www.carpino.ir/images/Logo.8cd642e8.png)
+![Carpino config manager](https://www.computerhope.com/jargon/c/config-sys.jpg)
 
 # Carpino Config Manager
 
