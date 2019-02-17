@@ -7,6 +7,7 @@ import (
 	"time"
 )
 
+// ConfigService struct
 type ConfigService struct {
 	Config *domain.Config
 	Location string

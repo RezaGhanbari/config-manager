@@ -13,7 +13,7 @@ func main() {
 	config := domain.Config{}
 
 	configService := service.ConfigService{
-		Config: &config,
+		Config:   &config,
 		Location: "config.yaml",
 	}
 

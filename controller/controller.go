@@ -8,6 +8,7 @@ import (
 	"net/http"
 )
 
+// Controller struct
 type Controller struct {
 	Config *domain.Config
 }

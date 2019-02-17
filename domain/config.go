@@ -36,7 +36,7 @@ func (c *Config) SetFromBytes(data []byte) error {
 	return nil
 }
 
-// GET return the config for a particular service
+// Get return the config for a particular service
 func (c *Config) Get(serviceName string) (map[string]interface{}, error) {
 	c.lock.RLock()
 	defer c.lock.RUnlock()
