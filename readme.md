@@ -1,7 +1,7 @@
 
 ![Carpino config manager](http://www.myiconfinder.com/uploads/iconsets/256-256-5fbc60a4335d01cd9c35dcf8fae02410.png)
 
-# Carpino Config Manager
+# Config Manager
 
 [![Go Report Card](https://goreportcard.com/badge/github.com/CarpinoTaxi/config-manager)](https://goreportcard.com/report/github.com/CarpinoTaxi/config-manager)
 
