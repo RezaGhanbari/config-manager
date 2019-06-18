@@ -9,7 +9,7 @@
 This is a lightweight, open source config manager and discovery management platform tha enables you to control your microservice environments from a single file. It will watch over changes and reloads the config every n seconds.
 
 
-Go version 1.10 is required to build `master`, the current
+Go version 1.7 is required to build `master`, the current
 development version. This project is officially supported on `linux/amd64`,
 `linux/i386` and `linux/arm64`.
 
