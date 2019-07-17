@@ -67,6 +67,7 @@ func (c *Config) Get(serviceName string) (map[string]interface{}, error) {
 	return config, nil
 }
 
+// convertKeysToString function
 func convertKeysToString(m map[interface{}]interface{}) (map[string]interface{}, error) {
 	n := make(map[string]interface{})
 	for k, v := range m {
