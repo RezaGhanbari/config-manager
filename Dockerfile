@@ -1,4 +1,4 @@
-FROM golang:1.11 AS builder
+FROM golang:1.12 AS builder
 
 COPY . /go/src/config-manager/
 WORKDIR /go/src/config-manager/
